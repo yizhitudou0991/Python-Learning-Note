@@ -1,2 +1,3 @@
-# Python-
-一个学习Python的笔记本
+这是一个记录学习python的笔记本
+
+This is a notebook that records learning Python
